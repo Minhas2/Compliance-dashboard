@@ -1,0 +1,102 @@
+.dark-blue-box{
+background: #0C2E62;
+   color: white;
+   padding: 10PX;
+   width: 80%;
+   text-align: left;
+}
+
+.otherbox{
+    background:transparent;
+   color: white;
+   padding: 10PX;
+   width: 80%;
+   text-align: left;
+}
+    
+.big-lightblue-box{
+    background: #184181;
+    color: white;
+
+
+}
+
+.dark-blue-box-setting{
+    background: #0C2E62;
+    color: white;
+    padding: 10PX;
+    width: 80%;
+    text-align: left;
+    margin-top: 500px;
+    margin-bottom: 20px;
+}
+
+
+.blue-grad-box{
+    background: linear-gradient(90deg, #184181 0%, #072655 100%);
+    color: white;
+    border-radius: 20px;
+}
+
+
+.dash-header{
+    font-family: Poppins;
+font-weight: 700;
+text-align: center;
+
+
+}
+
+.dash-para{
+    font-family: Poppins;
+
+font-weight: 300;
+
+text-align: center;
+
+
+
+}
+
+.dash-btn{
+padding: 10px;
+color:  #184181;
+background: #D9D9D9;
+border-radius: 10px;
+
+}
+
+.btn-para{
+    font-family: Poppins;
+
+font-weight: 300;
+
+text-align: center;
+
+}
+
+
+.gray-dash-box{
+    background: #D9D9D9;
+    padding: 20px;
+}
+
+.to-do {
+    font-family: Poppins;
+    background: #F1E8E8;
+    padding: 5px 10px;
+    font-size: 10px;
+    font-weight: 400;
+    color: #479D4F;
+    border-radius: 57px;
+    text-align: center;
+}
+
+.view{
+    font-family: Poppins;
+
+font-weight: 500;
+
+text-align: center;
+
+}
